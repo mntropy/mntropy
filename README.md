@@ -8,6 +8,7 @@
   </a>
   <br><br>
   <a href="https://montropy.com"><img src="https://img.shields.io/badge/montropy.com-236B50?style=for-the-badge" alt="Visit montropy.com"></a>
+  <a href="https://humanticlabs.com"><img src="https://img.shields.io/badge/humanticlabs.com-236B50?style=for-the-badge" alt="Visit humanticlabs.com"></a>  
 </div>
 
 ## 👋 Hey there
