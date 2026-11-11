@@ -10,9 +10,11 @@
   <a href="https://montropy.com"><img src="https://img.shields.io/badge/montropy.com-236B50?style=for-the-badge" alt="Visit montropy.com"></a>
 </div>
 
-## Hey, I'm Monty
+## Hey there 👋
 
-I'm a software developer who builds websites and futzes around with AI. Lately I've been doing a lot of coding with Claude.
+I'm a dev who builds websites and futzes around with AI. 
+
+Lately I've been doing a lot of coding with Claude.
 
 I keep coming back to apps I wish I had. Some start with a problem I run into myself, others start with a question.
 
