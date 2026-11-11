@@ -10,7 +10,7 @@
   <a href="https://montropy.com"><img src="https://img.shields.io/badge/montropy.com-236B50?style=for-the-badge" alt="Visit montropy.com"></a>
 </div>
 
-## Hey there 👋
+## 👋 Hey there
 
 I'm a dev who builds websites and futzes around with AI. 
 
